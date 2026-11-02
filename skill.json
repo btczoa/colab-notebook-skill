@@ -1,0 +1,14 @@
+{
+  "name": "colab-notebook",
+  "version": "1.0.0",
+  "description": "Google Colab notebook architecture standards and patterns for AI model inference and microservices",
+  "author": "custom",
+  "entry": "skills/colab-notebook/SKILL.md",
+  "skills": [
+    {
+      "name": "colab-notebook",
+      "path": "skills/colab-notebook",
+      "description": "Google Colab 上で AI モデル推論エンジンやマイクロサービス Studio を構築・運用するノートブック作成規約と設計パターン"
+    }
+  ]
+}
